@@ -1,0 +1,86 @@
+.adj {
+    height: 63px;
+    width: 60px;
+    margin-left: 450px
+}
+
+.urdu {
+    font-family: "Noto Nastaliq Urdu", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.alig {
+    text-align: center;
+
+    font-family: "IBM Plex Sans Arabic", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.cls {
+    display: block;
+    margin: auto;
+    background-color: #d69942;
+    padding: 7px;
+    border: 02px solid #d69942;
+    text-decoration: none;
+}
+
+.dusp {
+    display: block;
+}
+
+.gaz11 {
+    font-family: "Didot eText W01 Italic";
+    text-align: center;
+    font-size: 25px;
+}
+
+.gaz12 {
+    font-family: "Didot eText W01 Italic";
+    text-align: center;
+    font-size: 15px;
+}
+
+.fotcol {
+    background-color: gray;
+}
+
+.navcol {
+    color: white;
+}
+
+.h2 {
+    font-family: "Ubuntu", sans-serif;
+    font-style: normal;
+}
+
+.gaz11 {
+    font-family: "Didot eText W01 Italic";
+    text-align: center;
+    font-size: 25px;
+}
+
+.gaz12 {
+    font-family: "Didot eText W01 Italic";
+    text-align: center;
+    font-size: 15px;
+}
+
+.clor11 {
+    background-color: #d69942;
+    color: white;
+    padding: 15px;
+    margin: 0;
+}
+
+.fott {
+    margin-top: 0px !important;
+    background-color: #B17F36;
+}
+
+.caro {
+    margin-top: 60px;
+}
